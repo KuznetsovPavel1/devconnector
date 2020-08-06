@@ -1,0 +1,6 @@
+node_modules/
+
+config/production.json
+client/node_modules
+client/build
+_resources
